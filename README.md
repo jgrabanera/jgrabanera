@@ -57,6 +57,8 @@
 
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jgrabanera&show_icons=true&locale=en&layout=compact" alt="jgrabanera" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jgrabanera&show_icons=true&locale=en" alt="jgrabanera" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jgrabanera&" alt="jgrabanera" /></p>
