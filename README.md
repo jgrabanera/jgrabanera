@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jomar 😁</h1>
+<div style="padding: 5rem; border: 2px solid #cacaca; border-radius: 25px;">
+    <h1 align="center">Hi 👋, I'm Jomar 😁</h1>
 <h3 align="center">A passionate frontend developer from Cavite, Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jgrabanera&label=Profile%20views&color=0e75b6&style=flat" alt="jgrabanera" /> </p>
@@ -57,3 +58,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jgrabanera&" alt="jgrabanera" /></p>
 
+
+</div>
