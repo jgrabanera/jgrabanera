@@ -17,8 +17,9 @@
 
 <div style="display: inline_block"><br>
 <h4 align="left">Connect with me:</h4>
-<a href="https://linkedin.com/in/jomar-rabanera-19718719a" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jomar-rabanera-19718719a" height="30" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://fb.com/jomar.rabanera0827" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jomar.rabanera0827" height="30" width="40" /></a>
+  <a href="https://fb.com/jomar.rabanera0827" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jomar.rabanera0827" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/jomar-rabanera-19718719a" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jomar-rabanera-19718719a" height="30" width="40" /></a> 
+
 </div>
 
 <div style="display: inline_block"><br>
