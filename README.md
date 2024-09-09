@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **STARBOOKS For Governance**
 
-- 🌱 I’m currently learning **ReactJS, Typescript and Databases**
+- 🌱 I’m currently learning **Databases**
 
 - 👯 I’m looking to collaborate on **Any Flutter/React Native Projects (Mobile)**
 
