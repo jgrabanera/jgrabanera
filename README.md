@@ -29,7 +29,7 @@ Most of my work is with **STARBOOKS** at **DOST-STII**, where I develop and main
 | 🗂️ **CMS Platforms** | Media uploads, content organization, user management, and dynamic pages |
 | 📚 **Information Systems** | Kiosk interfaces and offline information platforms for STARBOOKS |
 | 🧪 **Software Testing** | Test automation with Cypress and Selenium |
-| ⚙️ **Automation & Tooling** | Workflow automation with n8n and GoHighLevel, plus Git, Linux, Docker, and WordPress |
+| ⚙️ **Automation & Tooling** | Workflow automation with n8n and System.io, plus Git, Linux, Docker, and WordPress |
 
 ## 🛠️ Tech Stack
 
