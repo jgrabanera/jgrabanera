@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://fb.com/jomar.rabanera0827" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/jomar-rabanera-19718719a" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://fb.com/jomar.rabanera0827" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/jomar-rabanera-19718719a" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 <p align="left">
@@ -50,7 +50,7 @@ Most of my work is with **STARBOOKS** at **DOST-STII**, where I develop and main
 <p>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" title="Flutter" />
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" title="Dart" />
-  <img src="https://www.vectorlogo.zone/logos/reactnative/reactnative-icon.svg" alt="React Native" width="40" height="40" title="React Native" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg" alt="React Native" width="40" height="40" title="React Native" />
 </p>
 
 ### Testing & Automation
@@ -88,7 +88,7 @@ Most of my work is with **STARBOOKS** at **DOST-STII**, where I develop and main
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.demolab.com/?user=jgrabanera&theme=default" alt="Jomar's GitHub streak" />
+      <img src="https://streak-stats.demolab.com/?user=jgrabanera&theme=default" alt="Jomar's GitHub streak" />
     </td>
   </tr>
 </table>
@@ -101,4 +101,4 @@ Most of my work is with **STARBOOKS** at **DOST-STII**, where I develop and main
 
 ---
 
-<p align="center">Open to collaborating on web, mobile, and CMS projects — reach out on <a href="https://linkedin.com/in/jomar-rabanera-19718719a">LinkedIn</a> or <a href="https://fb.com/jomar.rabanera0827">Facebook</a>.</p>
+<p align="center">Open to collaborating on web, mobile, and CMS projects — reach out on <a href="https://linkedin.com/in/jomar-rabanera-19718719a" target="_blank" rel="noopener noreferrer">LinkedIn</a> or <a href="https://fb.com/jomar.rabanera0827" target="_blank" rel="noopener noreferrer">Facebook</a>.</p>
