@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&text=Jomar%20Rabanera&fontSize=70" alt="Jomar Rabanera" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color&height=200&text=JOMAR%20RABANERA&fontSize=70" alt="Jomar Rabanera" />
 </p>
 
 <p align="center">
