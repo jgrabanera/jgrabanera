@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Full-Stack Web & Mobile Developer</b> · Cavite, Philippines 🇵🇭
+  <b>Full-Stack Web Developer</b> · Cavite, Philippines 🇵🇭
 </p>
 
 <p align="center">
